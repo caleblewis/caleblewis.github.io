@@ -5,3 +5,14 @@ h1, p {
 	color: white;
 	font-family: Arial, sans-serif;
 }
+
+h2 {
+	color: white;
+	font-family: Arial, sans-serif;
+	text-decoration: underline;
+}
+
+a{ 
+	color: white;
+	text-decoration: none;
+ }
